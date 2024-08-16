@@ -24,7 +24,7 @@ dependencies:
   - gstreamer=1.14.0=hb453b48_1
   - icu=58.2=h9c2bf20_1
   - intel-openmp=2019.3=199
-  - ipykernel=5.1.0=py37h39e3cac_0
+  - ipykernel
   - ipython=7.4.0=py37h39e3cac_0
   - ipython_genutils=0.2.0=py37_0
   - ipywidgets=7.4.2=py37_0
