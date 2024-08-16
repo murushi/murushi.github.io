@@ -29,7 +29,7 @@ dependencies:
   - ipython_genutils
   - ipywidgets
   - jedi
-  - jinja2=2.10=py37_0
+  - jinja2
   - jpeg=9b=h024ee3a_2
   - jsonschema=3.0.1=py37_0
   - jupyter=1.0.0=py37_7
