@@ -31,7 +31,7 @@ dependencies:
   - jedi
   - jinja2
   - jpeg=9b=h024ee3a_2
-  - jsonschema=3.0.1=py37_0
+  - jsonschema
   - jupyter=1.0.0=py37_7
   - jupyter_client=5.2.4=py37_0
   - jupyter_console=6.0.0=py37_0
