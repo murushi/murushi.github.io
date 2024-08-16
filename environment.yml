@@ -28,7 +28,7 @@ dependencies:
   - ipython
   - ipython_genutils
   - ipywidgets
-  - jedi=0.13.3=py37_0
+  - jedi
   - jinja2=2.10=py37_0
   - jpeg=9b=h024ee3a_2
   - jsonschema=3.0.1=py37_0
