@@ -27,7 +27,7 @@ dependencies:
   - ipykernel
   - ipython
   - ipython_genutils
-  - ipywidgets=7.4.2=py37_0
+  - ipywidgets
   - jedi=0.13.3=py37_0
   - jinja2=2.10=py37_0
   - jpeg=9b=h024ee3a_2
